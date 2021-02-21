@@ -10,6 +10,11 @@
 [Live Demo Link](https://gradientbackgrnd.netlify.app/)
 
 
+## Built with
+
+>HTML
+>CSS
+>JAVASCRIPT
 
 To get a local copy up and running follow these simple example steps.
 
@@ -24,9 +29,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Shaher-11/)
+- Twitter: [@twitterhandle](https://twitter.com/ShaherShamroukh/)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/Shaher-Shamroukh/)
 
 
 
