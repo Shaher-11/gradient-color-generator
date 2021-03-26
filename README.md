@@ -1,45 +1,36 @@
-![](https://img.shields.io/badge/gradient-color-generator-blueviolet)
 
-# gradient-color-generator
+![](https://img.shields.io/badge/gradient-generator-blueviolet)
 
-> This is a a simple web appliaction to generate gradient color 
+# Gradient generator
+> Gradient color generator a website to generate gradient colors with a few clicks and choose whichever color looks appealing.
 
+![screenshot](./gradient.png)
+
+Additional description about the project and its features.
+
+## Built With
+
+- HTML
+- CSS
+- Javascript
 
 ## Live Demo
 
 [Live Demo Link](https://gradientbackgrnd.netlify.app/)
 
 
-## Built with
+## Getting Started
 
->HTML
->CSS
->JAVASCRIPT
-
-To get a local copy up and running follow these simple example steps.
-
-### Clone the repo or download the zip folder
-
-### open the html page with the prowser
+**Clone the repo by running ```git clone``` https://github.com/Shaher-11/gradient-color-generator.git**
+**open the html file with any browser**
 
 
+## Author
 
+👤 **Shaher**
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/Shaher-11/)
 - Twitter: [@twitterhandle](https://twitter.com/ShaherShamroukh/)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/Shaher-Shamroukh/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shaher-shamroukh/)
+- GitHub: [@githubhandle](https://github.com/Shaher-11/)
 
 
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
